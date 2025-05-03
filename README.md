@@ -47,3 +47,21 @@ Reporting and Visualization: Present the findings through comprehensive reports 
  
 **Technology used:**
 SQL server
+
+# Project 3
+
+**Title:**[Dashboard for Bank Loan Application.](https://github.com/Adorablesally/github.io/blob/main/loan.png)
+
+**Tools Used:** POWERBI,DAX,Slicers,Line Chart,Cards,Stacked Bar Chart,Stacked Column Chart,Pie Chart and Table.
+
+**Project Description:** The project involves analyzing a dataset of loan applications to assess lending performance and borrower characteristics. It includes aggregating key financial metrics, comparing loan statuses, and uncovering trends based on factors such as employment length, loan purpose, and loan terms. Visual dashboards and statistical summaries will be generated to support data-driven decision-making.
+Loan Purpose: This detailed different reasons why loans may be requested from Banks ranging from Education, Car Finace,Mortgages,small business,weddings,vacation..e.t.c
+Total Loan Application by Employee length: This comprises of the duration or total time spent by the employee within the bank. This involves grouping applications by years of employment.e.g., <1 year, 1–3 years, 5–10 years, etc It assesses whether employment stability correlates with loan approvals or funding amounts.
+
+**Key findings:** 
+Loan Purpose: Majority of people who requested for loans are those who run small businesses, debt consolidation purpose and also for housing purpose.
+Total loan application by employee lenght: The employees that has the higest number of loan applications are those who has spent more than 10 years in the bank.
+Average interest rate: The longer it takes an employeed to repay their loan, the longer the interest rate. The loan that is tagged as good loan has an an average interest rate of 0.12 while the loan that is tagged as bad loan has an averafe interest rate of 0.14.
+
+**Dashboard Overview:**
+![Bank loan Application](loan.png)
