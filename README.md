@@ -59,9 +59,30 @@ Loan Purpose: This detailed different reasons why loans may be requested from Ba
 Total Loan Application by Employee length: This comprises of the duration or total time spent by the employee within the bank. This involves grouping applications by years of employment.e.g., <1 year, 1–3 years, 5–10 years, etc It assesses whether employment stability correlates with loan approvals or funding amounts.
 
 **Key findings:** 
-Loan Purpose: Majority of people who requested for loans are those who run small businesses, debt consolidation purpose and also for housing purpose.
+Loan Purpose: Majority of people who requested for loans are those who run small businesses, those for debt consolidation purpose and also for housing purpose.
 Total loan application by employee lenght: The employees that has the higest number of loan applications are those who has spent more than 10 years in the bank.
-Average interest rate: The longer it takes an employeed to repay their loan, the longer the interest rate. The loan that is tagged as good loan has an an average interest rate of 0.12 while the loan that is tagged as bad loan has an averafe interest rate of 0.14.
+Average interest rate: The longer it takes an employee to repay their loan, the longer the interest rate. The loan that is tagged as good loan has an an average interest rate of 0.12 while the loan that is tagged as bad loan has an average interest rate of 0.14.
 
 **Dashboard Overview:**
 ![Bank loan Application](loan.png)
+
+# Project 4
+
+**Title:** [Supplements Sales Insight](https://github.com/Adorablesally/github.io/blob/main/Supplements%20powerbi.pbix)
+
+**Tools Used:**POWERBI,DAX,Slicers,Cards,Tables,Metrix,Charts,e.t.c.
+
+**Project Description:** supplements sales analysis involves analyzing and interpreting data related various supplements categories such as  dietry, health, and fitness supplements. This includes vitamins, protein powders, amino acid,herbal products, hydration, performance enhancers, omega,sleep aid, and other wellness-related goods. The goal is to understand customer behavior, product performance, market trends, and sales instigators to inform strategic business decisions. Total Units Sold by Location: This compares the sales made by each region and total units of products sold  by this regions which include UK, USA, and CANADA.
+Total Revenue by Platform: The platforms of sales include Iherb,Amazon and Walmart. This helps to compare the sales platform that generated the most revenue for the supplements sales.
+
+**Key findings:** Key findings:
+Regional Profitability: Identified the most profitable countries and highlighted regions where performance could be improved.
+Seasonal Trends: Revealed patterns in sales and profit that correspond with seasonal events, allowing for more strategic planning.
+Top-Performing Products: Highlighted which supplement category are driving the most revenue and profit, aiding in inventory and marketing decisions.
+Sales Volatility: Analyzed monthly sales fluctuations to understand market dynamics and adjust business strategies accordingly.
+This dashboard serves as a crucial tool for the Supplement sales management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
+
+**Dashboard Overview:**
+![Supplements sales insight Dashboard](Supplement.png)
+
+
