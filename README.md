@@ -16,8 +16,9 @@ Routes: Focus on Airline routes and the preferred airline routes by customers.
 
 
 **Key findings:**
-Ratings By value for money: Some customers rate the airline poorly because they believed that the service being rendered by the airline did not match the amount they paid.
-Top rated Airline By travel or Class: Some Airlines performed better than the other  by travel class. For exacmple, some airlines had best ratings from first class travels and lower ratings from economy travellers, while some had best ratingss from business class travellers and poor ratings from first class travellersaccording to their experience.
+Ratings By value for money: Travelers who pay more expect more: better seating, food, entertainment, and customer service.
+The services received do not match the price paid, which makes the premium customers to feel disappointed.
+Ratings by Seat Comfortability : Some of the customers gave poor ratings because of lack of comfortable seating. Long flights without comfortable seatings make them cramped, poorly cushioned seats can lead to fatigue, or back pain.
 
 **Dashboard Overview:**
 ![Airline](Airline.png)
