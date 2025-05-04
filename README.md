@@ -125,6 +125,24 @@ Reporting and Visualization: Present the findings through comprehensive reports 
 **Technology used: **
 SQL server
 
+ # Project 7
+
+**Title:**  [Employee's Salary interpretation and Manipulation](https://github.com/Adorablesally/github.io/blob/main/02%20-%20Employee%20_%20Salary.xlsx)
+
+**SQL Code:** [Employee salary SQL Code](https://github.com/Adorablesally/github.io/blob/main/EmployeeSalary.SQL)
+
+**SQL Skills Used:**
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT,AVG,MAX,MIN,GROUP BY): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+JOIN Operations – Combining Data. Combines rows from two or more tables based on a related column.
+
+**Project Description:**
+I Used SELECT Statement in  SQL to extract and analyze employee salary data from the company’s HR database. I utilized SELECT statements combined with filtering conditions to retrieve relevant salary information for reporting and decision-making purposes. For example, extracted all employees earning above a certain threshold, calculated average salaries across departments using aggregate functions, and ranked top earners using ORDER BY. Additionally, joined the employees and departments tables to correlate salary data with organizational units for enhanced insights.
+
+
+ 
+**Technology used: SQL server**
 
 
 
