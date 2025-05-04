@@ -4,7 +4,7 @@
 
 **Tools Used:** Microsoft Excel (Pivot Table, Pivot chart, Conditional Formating, Slicers,Timelines)
 
-**Project Description:**This project involved analysing customer reviews from various airlines to determine overall passenger experience. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different routes, based on the type of Airline, flight class, type of travellers as well as the review date of the customers. The dashboard includes the following features:
+**Project Description:**This project involves analysing customer reviews from various airlines to determine overall passenger experience. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different routes, based on the type of Airline, flight class, type of travellers as well as the review date of the customers. The dashboard includes the following features:
 Type of travellers on Monthly basis: This detailed comprehensively the type of travellers we have on monthly basis whether Solo travcellers, couples or those that travel for business purposes.
 Airline ratings by staff services: This gives an insight into travellers rate the airline staffs based on their own customer service experience.
 Monthly trend of overall ratings: This enables close monitoring of travellers ratings whether there is an increase or decrease compared to the previous months.
