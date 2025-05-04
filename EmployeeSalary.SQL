@@ -1,5 +1,7 @@
-DATA MANIPULATION LANGUAGE
-SELECT STATEMENT
+--DATA MANIPULATION LANGUAGE
+
+--SELECT STATEMENT
+
 -- Write an SQL query to fetch the EmpId and FullName of all the employees working under the Manager with id – ‘986’.
 SELECT EMPID,FULLNAME FROM [dbo].[New_EMPLOYEE]
 WHERE Managerid = 986;
