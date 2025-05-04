@@ -35,7 +35,9 @@ employee data interrogation and manipulation
 Data Retrieval (SELECT): Queried and extracted specific information from the database.
 Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
 Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
-Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+**Data Source Specification (FROM):**
+[Football data](https://github.com/Adorablesally/github.io/blob/main/Football%20Players%20Data.xlsx)
  
 
 **Project Description:**
@@ -98,5 +100,31 @@ According to the analysis of the game, in 2008, it was found that there was a si
 
 **Dashboard Overview:** 
 ![Video Games Sales Analysis](games.png)
+
+ # Project 6
+ 
+ **Title:**  Football Players data interrogation and manipulation
+
+**SQL Code:** [Football data SQL Code](https://github.com/Adorablesally/github.io/commit/2595a75a52ba764a26aefdff46cd9d26acf7e402)
+
+**SQL Skills Used:**
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+
+**Project Description:** 
+This project focuses on the analysis of a comprehensive dataset containing detailed information about approximately 11,000 football players. The primary objective is to utilize SQL for extracting meaningful insights regarding player demographics, performance metrics, and other relevant attributes.
+Database Design and Implementation: Develop a relational database schema to effectively store and manage the football players' data, ensuring normalization and referential integrity.
+Data Analysis Using SQL: Execute SQL queries to analyze various aspects of the dataset, including: Player demographics (e.g., age, nationality). Performance metrics (e.g., ratings, positions). Financial attributes (e.g., wages, market value).
+Insight Extraction: Identify patterns and trends within the data, such as: Nationalities with the highest representation among players. Correlation between player attributes and performance metrics. Distribution of players across different clubs and leagues.
+Reporting and Visualization: Present the findings through comprehensive reports and visualizations to facilitate better understanding and decision-making. By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of football players' data, offering valuable insights for stakeholders such as team managers, scouts, and analysts.
+
+ **Data Source Specification (FROM):**
+ [Football data for SQL](https://github.com/Adorablesally/github.io/blob/main/Football%20Players%20Data.xlsx)
+ 
+**Technology used: **
+SQL server
+
+
 
 
